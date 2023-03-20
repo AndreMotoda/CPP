@@ -1,0 +1,10 @@
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\bin\Debug\ProjetoExtra.exe.config
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\bin\Debug\ProjetoExtra.exe
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\bin\Debug\ProjetoExtra.pdb
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\obj\Debug\ProjetoExtra.csproj.AssemblyReference.cache
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\obj\Debug\ProjetoExtra.Form1.resources
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\obj\Debug\ProjetoExtra.Properties.Resources.resources
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\obj\Debug\ProjetoExtra.csproj.GenerateResource.cache
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\obj\Debug\ProjetoExtra.csproj.CoreCompileInputs.cache
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\obj\Debug\ProjetoExtra.exe
+C:\Users\Daisuke\Desktop\ProjetoExtra\ProjetoExtra\obj\Debug\ProjetoExtra.pdb
