@@ -27,7 +27,7 @@ namespace Atividade1
                 if (textBox1.Text == "")
                     MessageBox.Show("Sem raio!");
                 else
-                    MessageBox.Show("O raio não é número!");
+                    MessageBox.Show("Insira um número válido!");
             }
             }
             if (!(float.TryParse(textBox2.Text, out num)))
@@ -35,7 +35,7 @@ namespace Atividade1
                 if (textBox2.Text == "") 
                     MessageBox.Show("Sem altura!");
                 else
-                    MessageBox.Show("A altura não é número!");
+                    MessageBox.Show("Insira um número válido!");
             }
             textBox3.Text = ((float.Parse(textBox1.Text) * pi) * float.Parse(textBox2.Text)).ToString() ;
         }
