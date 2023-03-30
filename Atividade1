@@ -64,10 +64,6 @@ namespace Atividade1
             }
         }
 
-        private void textBox2_TextChanged_1(object sender, EventArgs e)
-        {
-
-        }
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
